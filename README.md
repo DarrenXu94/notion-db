@@ -1,1 +1,1 @@
-https://developers.notion.com/reference/update-a-database
+/.netlify/functions/cookbook
